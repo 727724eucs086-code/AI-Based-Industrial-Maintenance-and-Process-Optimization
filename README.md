@@ -8,7 +8,6 @@
 [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
 
 > 🔗 **Live Production URL**: [https://ai-industrial-maintenance-optimizat.vercel.app](https://ai-industrial-maintenance-optimizat.vercel.app)  
-> 📊 **API Health Endpoint**: [https://ai-industrial-maintenance-optimizat.vercel.app/api/health](https://ai-industrial-maintenance-optimizat.vercel.app/api/health)
 
 A production-grade, enterprise AI application for **AI Based Industrial Maintenance and Process Optimization** utilizing the **AI4I 2020 Predictive Maintenance Dataset**.
 
